@@ -5,18 +5,18 @@
   },
   "server": {
     "address": "127.0.0.1",
-	"port": 7655
+	"port": 8000
   },
   "check_hostname": true,
   "DNS": {
-    "dnscrypt-proxy": true,
+    "dnscrypt-proxy": false,
     "nameserver": "127.0.0.1",
-    "port": 53
+    "port": 5355
   },
-  "webui": true,
+  "webui": false,
   "webuiport": 7654,
-  "setproxy": true,
-  "importca": true,
+  "setproxy": false,
+  "importca": false,
   "ipv6": false,
   "http_redirect": {
     "pixiv.net/": "www.pixiv.net/",
@@ -27,7 +27,14 @@
   "alert_hostname": {
     "www.quora.com": "fs.quoracdn.net",
     "sketch.pixiv.net": "pixivsketch.net",
-	"cdn1-smallimg.phncdn.com": "pabbp.com"
+    "cdn1-smallimg.phncdn.com": "pabbp.com",
+    "archive.vn": "archive.today",
+    "accounts.pixiv.net": "fanbox.cc",
+    "public-api.secure.pixiv.net": "fanbox.cc",
+    "oauth.secure.pixiv.net": "fanbox.cc",
+    "en.wikipedia.org": "en.wikinews.org",
+    "zh.wikipedia.org": "en.wikinews.org",
+    "bandcamp.com": "fastly.com"
   },
   "content_fix": {
     "accounts.pixiv.net": {
