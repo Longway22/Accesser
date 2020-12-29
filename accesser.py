@@ -54,10 +54,12 @@ class ProxyHandler(StreamRequestHandler):
     
     def update_cert(self, server_name):
         res = get_tld(server_name, as_object=True, fix_protocol=True)
-        if res.subdomain:
-            server_name = res.subdomain.split('.', 1)[-1] + '.' + res.domain + '.' + res.tld
+        if "." in res.subdomain:
+            server_name = res.subdomain.split('.', 1)[-1] + '.' + res.fld
         else:
-            server_name = res.domain + '.' + res.tld
+            server_name = res.fld
+            if "githubusercontent.com" in server_name:
+                server_name = "githubusercontent.com"
         with cert_lock:
             if not server_name in cert_store:
                 cm.create_certificate(server_name)
