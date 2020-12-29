@@ -7,10 +7,6 @@ Because the main users of this project are in mainland China, you may encounter 
 
 [Supported sites](https://github.com/URenko/Accesser/wiki/目前支持的站点)
 
-[![](https://img.shields.io/github/release/URenko/Accesser.svg)](https://github.com/URenko/Accesser/releases/latest)
-[![](https://img.shields.io/github/downloads/URenko/Accesser/total.svg)](https://github.com/URenko/Accesser/releases/latest)
-[![](https://img.shields.io/github/license/URenko/Accesser.svg)](https://github.com/URenko/Accesser/blob/master/LICENSE)
-
 ## Usage
 refer to [https://urenko.github.io/Accesser/](https://urenko.github.io/Accesser/)
 
