@@ -8,7 +8,7 @@
 # This has to be enabled with the `cloaking_rules` parameter in the main
 # configuration file
 
-
+archive.vn 151.106.9.30
 *.e-hentai.org 104.20.27.25
 e-hentai.org 104.20.27.25
 *.pixiv.net 210.140.131.219
