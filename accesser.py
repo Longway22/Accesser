@@ -271,7 +271,7 @@ def update_checker():
 if __name__ == '__main__':
     print("Accesser v{}  Copyright (C) 2018-2019  URenko".format(__version__))
     
-    threading.Thread(target=update_checker).start()
+    #threading.Thread(target=update_checker).start()
     
     proxy = Proxy()
     webui.init(proxy, version=__version__)

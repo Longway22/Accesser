@@ -24,3 +24,14 @@ e-hentai.org 104.20.27.25
 *.bandcamp.com 151.101.65.57
 bandcamp.com 151.101.65.57
 *.githubusercontent.com 151.101.192.133
+*.theepochtimes.com 151.139.128.13
+steam*-a.akamaihd.net 23.57.66.9
+i.epochtimes.com 151.139.128.13
+donate.epochtimes.com 151.139.128.13
+*.appledaily.com 104.74.56.205 # static.omoplanet.com
+*.appledaily.com 60.254.170.127 # appledaily.com
+www.nytimes.com 151.101.1.6
+mwcm.nytimes.com 151.101.1.16
+myaccount.nytimes.com 151.101.1.16
+samizdat-graphql.nytimes.com 151.101.1.16
+*.nyt.com 151.101.1.16

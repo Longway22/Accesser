@@ -1,20 +1,20 @@
 # Accesser
-[English version](README.en.md)
 
-一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具  
-[支持的站点](https://github.com/URenko/Accesser/wiki/目前支持的站点)
+*forked from [github.com/URenko/Accesser](https://github.com/URenko/Accesser)*
 
-- ~~由于在可预见的时间内作者无时间与精力持续维护，本项目无限期断更~~
-- 在 https://repo.or.cz/Accesser.git 由其他使用者更新
-- 通过修改配置文件，在很长的时间里依然可用（实际上本项目的原理两年来没变过）
-- 不建议使用nginx等有中间人攻击风险的方法（还记得最近github那件事吗）
-- 如果追求更新，[GotoX](https://github.com/SeaHOH/GotoX/wiki/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E4%BC%AA%E9%80%A0-SNI-%E7%9A%84%E5%8A%9F%E8%83%BD)是一个不错的选择
+Evading SNI-based TCP reset attack using [Domain Fronting](https://en.wikipedia.org/wiki/Domain_fronting)
 
-## 使用方法
-参见[https://urenko.github.io/Accesser/](https://urenko.github.io/Accesser/)
+[Supported sites](https://notyet.yogas.ml/ac.yaml)
 
-## 依赖
-- Python3.7 (其他版本未测试)
+## Usage
+0. If you set dnscrypt true in `config.json`, you must place the executable `dnscrypt-proxy` in `dnscrypt` folder
+1. `python3 accesser.py` 
+2. Import `CERT/root.crt` as Root CA
+3. Use proxy `http://localhost:8000` for desired sites
+
+
+## Requirements
+- Python3.9
 - [pyopenssl](https://pyopenssl.org/)
 - [sysproxy](https://github.com/Noisyfox/sysproxy)(for Windows)
 - dnspython
@@ -22,12 +22,76 @@
 - tornado
 - tld
 
-## 增加支持的网站 
-按pac文件格式编辑`template/pac`使要支持的网站从代理过  
 
-## 当前支持
-|                   |Windows|Mac OS|Linux|
-|-------------------|-------|------|-----|
-|基础支持            |  ✔  |  ✔  | ✔ |
-|自动配置pac代理      |  ✔  |      |     |
-|自动导入证书至系统   |  ✔  |      |     |
+
+## Explanation
+
+Accesser tries TLS handshake without sending SNI
+
+You can add rules in [config.json](config.json.default)'s `alert_hostname`, ordering Accesser use specified SNI for specified site, Accesser will check the certificates is correct for that SNI
+
+**If no rules is to applied for the site, Accesser will NOT check certificate**
+
+**An MITM attack is possible**
+
+## Notes for CDNs
+
+###Akamai
+
+Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
+
+###Amazon CloudFront
+
+
+It does not support TLS handshake without SNI
+
+You must specific correct SNI in [config.json](config.json.default)
+
+#### Example:
+
+For `www.wsj.com` 
+Run
+
+$ `dig @208.67.222.222 -p 5353 -t CNAME www.wsj.com | grep CNAME`
+
+```
+www.wsj.com.		87	IN	CNAME	dlp0y1mxy0v3u.cloudfront.net. [AWS CloudFront]
+```
+
+Or run (If MS Windows)
+
+\> `nslookup -q=cname -port=5353 www.wsj.com 208.67.222.222`
+
+```
+Server:		208.67.222.222
+Address:	208.67.222.222#5353
+
+Non-authoritative answer:
+www.wsj.com	canonical name = dlp0y1mxy0v3u.cloudfront.net.
+
+Authoritative answers can be found from:
+```
+
+Add below in [config.json](cnfig.json.default)'s `alert_hostname` field
+
+```
+"www.wsj.com": "dlp0y1mxy0v3u.cloudfront.net"
+```
+
+### CloudFlare
+
+By default(most sites), it does not support TLS handshake without SNI, and will check if SNI extension and HTTP Host header contains the same domain
+
+Domain Fronting is not possible
+
+### Fastly
+
+Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
+
+### StackPath
+
+Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
+
+Note: this IP `151.139.128.11` has been blocked using QoS filtering
+
+Other IPs in the range 151.139.128.0/24 is not

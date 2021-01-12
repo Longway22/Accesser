@@ -37,7 +37,19 @@
     "oauth.secure.pixiv.net": "fanbox.cc",
     "en.wikipedia.org": "en.wikinews.org",
     "zh.wikipedia.org": "en.wikinews.org",
-    "bandcamp.com": "fastly.com"
+    "bandcamp.com": "fastly.com",
+    "www.ftchinese.com": "dsiij4vzr462k.cloudfront.net",
+    "www.wsj.com": "dlp0y1mxy0v3u.cloudfront.net",
+    "images.wsj.net": "dld6x5yyx2pqw.cloudfront.net",
+    "asset.wsj.net": "dybwbet3hi6j2.cloudfront.net",
+    "s.wsj.net": "d1dnqwqpiprgn.cloudfront.net",
+    "vir.wsj.net": "d30uo1bgmsbd1b.cloudfront.net",
+    "accounts.wsj.com": "d77hab4jv6kh0.cloudfront.net",
+    "site.nicovideo.jp": "d4fsvsnk8os9s.cloudfront.net",
+    "blog.nicovideo.jp": "d11c2xcc0ucqv1.cloudfront.net",
+    "info.nicovideo.jp": "d2c1o7y4lmdvf6.cloudfront.net",
+    "cn.nytimes.com": "d1emgxxou2di91.cloudfront.net",
+    "cdn.hk01.com": "d2mxcwgwjd7je6.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
