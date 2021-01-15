@@ -35,3 +35,6 @@ mwcm.nytimes.com 151.101.1.16
 myaccount.nytimes.com 151.101.1.16
 samizdat-graphql.nytimes.com 151.101.1.16
 *.nyt.com 151.101.1.16
+9to5mac.com 192.0.66.1
+9to5google.com 192.0.66.1
+9to5toys.com 192.0.66.1
