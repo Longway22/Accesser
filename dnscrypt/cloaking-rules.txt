@@ -1,4 +1,4 @@
-archive.vn 151.106.9.30
+archive.vn 217.79.181.101
 *.e-hentai.org 104.20.27.25
 e-hentai.org 104.20.27.25
 *.pixiv.net 210.140.131.219
