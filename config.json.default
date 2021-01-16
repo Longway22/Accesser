@@ -52,7 +52,8 @@
     "blog.nicovideo.jp": "d11c2xcc0ucqv1.cloudfront.net",
     "info.nicovideo.jp": "d2c1o7y4lmdvf6.cloudfront.net",
     "cn.nytimes.com": "d1emgxxou2di91.cloudfront.net",
-    "cdn.hk01.com": "d2mxcwgwjd7je6.cloudfront.net"
+    "cdn.hk01.com": "d2mxcwgwjd7je6.cloudfront.net",
+    "cdn.discordapp.com": "ssl711320.cloudflaressl.com"
   },
   "content_fix": {
     "accounts.pixiv.net": {
