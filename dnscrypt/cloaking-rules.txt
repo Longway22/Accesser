@@ -1,7 +1,8 @@
 archive.vn 217.79.181.101
-*.e-hentai.org 104.20.27.25
-e-hentai.org 104.20.27.25
 *.pixiv.net 210.140.131.219
+
+# WIKIMEDIA
+
 *.mediawiki.org 91.198.174.192
 *.wikipedia.org 91.198.174.192
 *.m.wikipedia.org 91.198.174.192
@@ -21,22 +22,45 @@ e-hentai.org 104.20.27.25
 *.m.wikiyoyage.org 91.198.174.192
 *.m.wikisource.org 91.198.174.192
 *.m.wikidata.org 91.198.174.192
-*.bandcamp.com 151.101.65.57
-bandcamp.com 151.101.65.57
-*.githubusercontent.com 151.101.192.133
-*.theepochtimes.com 151.139.128.13
+
+
+# Cloudflare
+
+*.e-hentai.org 104.20.27.25
+
+
+# Akamai
+
 steam*-a.akamaihd.net 23.57.66.9
-i.epochtimes.com 151.139.128.13
-donate.epochtimes.com 151.139.128.13
 *.appledaily.com 104.74.56.205 # static.omoplanet.com
 *.appledaily.com 60.254.170.127 # appledaily.com
+
+
+# StackPath
+
+*.theepochtimes.com 151.139.128.13
+donate.epochtimes.com 151.139.128.13
+i.epochtimes.com 151.139.128.13
+
+
+# Fastly
+
+*.githubusercontent.com 151.101.192.133
+*.bandcamp.com 151.101.65.57
 www.nytimes.com 151.101.1.6
 mwcm.nytimes.com 151.101.1.16
 myaccount.nytimes.com 151.101.1.16
 samizdat-graphql.nytimes.com 151.101.1.16
 *.nyt.com 151.101.1.16
+*.reddit.com 151.101.1.16
+*.redd.it 151.101.1.16
+*.redditstatic.com 151.101.1.16
+*.redditmedia.com 151.101.1.16
+
+
+# Automattic 
+
 9to5mac.com 192.0.66.1
 9to5google.com 192.0.66.1
 9to5toys.com 192.0.66.1
 wikimediafoundation.org 192.0.66.1
-9to5toys.com 192.0.66.1
