@@ -56,6 +56,8 @@ samizdat-graphql.nytimes.com 151.101.1.16
 *.redd.it 151.101.1.16
 *.redditstatic.com 151.101.1.16
 *.redditmedia.com 151.101.1.16
+www.bloomberg.com 151.101.1.16
+*.bwbx.io 151.101.1.16
 
 
 # Automattic 

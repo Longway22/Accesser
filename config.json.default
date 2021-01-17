@@ -60,11 +60,11 @@
     "www.setn.com": "d3v522mr175zqx.cloudfront.net",
     "ad.setn.com": "d2u7saoryvbpg5.cloudfront.net",
     "www.dwnews.com": "dkk2zj9yq18n2.cloudfront.net",
-    "blog.dwnews.com": "d4af7le4vo40q.cloudfront.net"
+    "blog.dwnews.com": "d4af7le4vo40q.cloudfront.net",
     "prod-comment-api.dwnews.com": "d3ki8d7f9hi9ns.cloudfront.net",
-    "prod-dwnews-comment-api.dwnews.com: "d1bzsgv77fyx4k.cloudfront.net",
+    "prod-dwnews-comment-api.dwnews.com": "d1bzsgv77fyx4k.cloudfront.net",
     "prod-web-site-api.dwnews.com":"d13q9i6cq4f2dd.cloudfront.net",
-    "prod-site-api.dwnews.com: "d13q9i6cq4f2dd.cloudfront.net",
+    "prod-site-api.dwnews.com": "d13q9i6cq4f2dd.cloudfront.net",
     "prod-thumbor-service.dwnews.net": "d3o14zf21cx2rb.cloudfront.net"
   },
   "content_fix": {
