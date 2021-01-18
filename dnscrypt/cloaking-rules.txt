@@ -57,10 +57,10 @@ mwcm.nytimes.com 151.101.1.16
 myaccount.nytimes.com 151.101.1.16
 samizdat-graphql.nytimes.com 151.101.1.16
 *.nyt.com 151.101.1.16
-*.reddit.com 151.101.1.1
-*.redd.it 151.101.1.2
-*.redditstatic.com 151.101.1.3
-*.redditmedia.com 151.101.1.4
+*.reddit.com 151.101.1.2
+*.redd.it 151.101.1.3
+*.redditstatic.com 151.101.1.4
+*.redditmedia.com 151.101.129.140
 www.bloomberg.com 151.101.1.16
 *.bwbx.io 151.101.1.16
 
