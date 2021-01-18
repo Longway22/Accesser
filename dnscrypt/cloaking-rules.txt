@@ -51,6 +51,7 @@ support.stackpath.com 151.139.128.13
 *.githubusercontent.com 151.101.192.133
 *.bandcamp.com 151.101.65.57
 www.nytimes.com 151.101.1.6
+archive.nytimes.com 151.101.1.6
 mwcm.nytimes.com 151.101.1.16
 myaccount.nytimes.com 151.101.1.16
 samizdat-graphql.nytimes.com 151.101.1.16
