@@ -88,6 +88,10 @@ Domain Fronting is not possible
 
 Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
 
+### Incapsula
+
+Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
+
 ### StackPath
 
 Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
