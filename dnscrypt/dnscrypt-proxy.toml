@@ -1,10 +1,12 @@
+disabled_server_names = ['rubyfish-ea', 'rubyfish-uw']
+
 listen_addresses = ['127.0.0.1:53000', '[::1]:53000']
 max_clients = 250
 ipv4_servers = true
 ipv6_servers = false
 dnscrypt_servers = true
 doh_servers = true
-require_dnssec = true
+require_dnssec = false
 require_nolog = false
 require_nofilter = true
 force_tcp = false
