@@ -67,7 +67,8 @@
     "prod-dwnews-comment-api.dwnews.com": "d1bzsgv77fyx4k.cloudfront.net",
     "prod-web-site-api.dwnews.com":"d13q9i6cq4f2dd.cloudfront.net",
     "prod-site-api.dwnews.com": "d13q9i6cq4f2dd.cloudfront.net",
-    "prod-thumbor-service.dwnews.net": "d3o14zf21cx2rb.cloudfront.net"
+    "prod-thumbor-service.dwnews.net": "d3o14zf21cx2rb.cloudfront.net",
+    "cookie-oven.api.bbc.co.uk": "d1joia3f2630yx.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
