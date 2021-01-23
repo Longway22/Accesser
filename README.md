@@ -30,9 +30,10 @@ Accesser tries TLS handshake without sending SNI
 
 You can add rules in [config.json](config.json.default)'s `alert_hostname`, ordering Accesser use specified SNI for specified site, Accesser will check the certificates is correct for that SNI
 
-**If no rules is to applied for the site, Accesser will NOT check certificate**
+**But for an incorrect certificate Accesser only print a WARNING and won't abort the connection**
 
-**An MITM attack is possible**
+
+**A MITM attack is possible**
 
 ## Notes for CDNs
 
