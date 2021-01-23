@@ -36,11 +36,11 @@ You can add rules in [config.json](config.json.default)'s `alert_hostname`, orde
 
 ## Notes for CDNs
 
-###Akamai
+### Akamai
 
 Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
 
-###Amazon CloudFront
+### Amazon CloudFront
 
 
 It does not support TLS handshake without SNI
@@ -77,6 +77,14 @@ Add below in [config.json](cnfig.json.default)'s `alert_hostname` field
 ```
 "www.wsj.com": "dlp0y1mxy0v3u.cloudfront.net"
 ```
+
+### Automattic
+
+Support TLS handshake without SNI, and does not require SNI extension and HTTP Host header to contain the same domain
+
+Note: this IP `192.0.66.2` has been blocked using QoS filtering
+
+Other IPs in the range 192.0.66.0/24 is not
 
 ### CloudFlare
 
