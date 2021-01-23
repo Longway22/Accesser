@@ -69,7 +69,8 @@ media*.giphy.com 151.101.230.2
 
 # Automattic 
 
-9to5mac.com 192.0.66.1
-9to5google.com 192.0.66.1
-9to5toys.com 192.0.66.1
-wikimediafoundation.org 192.0.66.1
+*.9to5mac.com 192.0.66.1
+*.9to5google.com 192.0.66.1
+*.9to5toys.com 192.0.66.1
+*.wikimediafoundation.org 192.0.66.1
+*.minnpost.com 192.0.66.1
