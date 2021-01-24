@@ -7,11 +7,8 @@ Evading SNI-based TCP reset attack using [Domain Fronting](https://en.wikipedia.
 [Supported sites](https://notyet.yogas.ml/ac.yaml)
 
 ## Usage
-0. If you set dnscrypt true in `config.json`, you must place the executable `dnscrypt-proxy` in `dnscrypt` folder
-1. `python3 accesser.py` 
-2. Import `CERT/root.crt` as Root CA
-3. Use proxy `http://localhost:8000` for desired sites
 
+Move to <https://rentry.co/Accesser_Usage>
 
 ## Requirements
 - Python3.9
