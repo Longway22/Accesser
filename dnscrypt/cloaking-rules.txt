@@ -8,27 +8,24 @@ passport.wenxuecity.com 35.190.31.60
 cdn.wenxuecity.com 35.190.94.124
 www.dropbox.com 162.125.69.1
 
+# AWS
+
+info.nicovideo.jp d2c1o7y4lmdvf6.cloudfront.net
+blog.nicovideo.jp d11c2xcc0ucqv1.cloudfront.net
+
+
 # WIKIMEDIA
 
 *.mediawiki.org 91.198.174.192
 *.wikipedia.org 91.198.174.192
-*.m.wikipedia.org 91.198.174.192
 *.wikiquote.org 91.198.174.192
-*.m.wikiquote.org 91.198.174.192
 *.wikinews.org 91.198.174.192
-*.m.wikinews.org 91.198.174.192
 *.wikiversity.org 91.198.174.192
-*.m.wikiversity.org 91.198.174.192
 *.wiktionary.org 91.198.174.192
-*.m.wiktionary.org 91.198.174.192
 *.wikibooks.org 91.198.174.192
-*.m.wikibooks.org 91.198.174.192
 *.wikiyoyage.org 91.198.174.192
 *.wikisource.org 91.198.174.192
 *.wikidata.org 91.198.174.192
-*.m.wikiyoyage.org 91.198.174.192
-*.m.wikisource.org 91.198.174.192
-*.m.wikidata.org 91.198.174.192
 
 
 # Cloudflare
