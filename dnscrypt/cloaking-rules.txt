@@ -8,11 +8,6 @@ passport.wenxuecity.com 35.190.31.60
 cdn.wenxuecity.com 35.190.94.124
 www.dropbox.com 162.125.69.1
 
-# AWS
-
-info.nicovideo.jp d2c1o7y4lmdvf6.cloudfront.net
-blog.nicovideo.jp d11c2xcc0ucqv1.cloudfront.net
-
 
 # WIKIMEDIA
 
@@ -31,6 +26,13 @@ blog.nicovideo.jp d11c2xcc0ucqv1.cloudfront.net
 # Cloudflare
 
 *.e-hentai.org 104.20.27.25
+
+
+# CloudFront
+
+info.nicovideo.jp d2c1o7y4lmdvf6.cloudfront.net
+blog.nicovideo.jp d11c2xcc0ucqv1.cloudfront.net
+site.nicovideo.jp d4fsvsnk8os9s.cloudfront.net
 
 
 # Akamai
