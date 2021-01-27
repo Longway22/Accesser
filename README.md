@@ -2,7 +2,7 @@
 
 *forked from [github.com/URenko/Accesser](https://github.com/URenko/Accesser)*
 
-Evading SNI-based TCP reset attack using [Domain Fronting](https://en.wikipedia.org/wiki/Domain_fronting)
+A tool for bypassing SNI-based HTTPS Filtering using [Domain Fronting](https://en.wikipedia.org/wiki/Domain_fronting)
 
 [Supported sites](https://notyet.yogas.ml/ac.yaml)
 
