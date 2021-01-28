@@ -5,18 +5,18 @@
   },
   "server": {
     "address": "127.0.0.1",
-	"port": 8000
+	"port": 7655
   },
   "check_hostname": true,
   "DNS": {
-    "dnscrypt-proxy": false,
+    "dnscrypt-proxy": true,
     "nameserver": "127.0.0.1",
     "port": 5355
   },
-  "webui": false,
+  "webui": true,
   "webuiport": 7654,
   "setproxy": false,
-  "importca": false,
+  "importca": true,
   "ipv6": false,
   "http_redirect": {
     "pixiv.net/": "www.pixiv.net/",
