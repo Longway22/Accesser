@@ -50,6 +50,7 @@ steam*-a.akamaihd.net 23.57.66.9
 donate.epochtimes.com 151.139.128.13
 i.epochtimes.com 151.139.128.13
 stackpath.bootstrapcdn.com 151.139.128.13
+maxcdn.bootstrapcdn.com 151.139.128.13
 www.stackpath.com 151.139.128.13
 support.stackpath.com 151.139.128.13
 
