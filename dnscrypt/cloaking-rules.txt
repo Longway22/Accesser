@@ -64,6 +64,8 @@ media*.giphy.com 151.101.230.2
 .h-cdn.com 151.101.78.133
 www.bbc.com 151.101.128.81
 disqus.com 151.101.64.134
+i.imgur.com 151.101.196.193
+i.stack.imgur.com 151.101.196.193
 
 
 # StackPath
