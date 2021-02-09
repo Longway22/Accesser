@@ -48,6 +48,7 @@ cdn.flipboard.com d2jsycj2ly2vqh.cloudfront.net
 
 avatar*.githubusercontent.com 151.101.192.133
 user-images.githubusercontent.com 151.101.192.133
+camo.githubusercontent.com 151.101.192.133
 gist.githubusercontent.com 151.101.192.133
 raw.githubusercontent.com 151.101.192.133
 .bandcamp.com 151.101.65.57
