@@ -31,9 +31,7 @@ steam*-a.akamaihd.net 23.57.66.9
 
 # Cloudflare
 
-.e-hentai.org 172.67.0.127
-.e-hentai.org 104.20.135.21
-.e-hentai.org 104.20.34.21
+.e-hentai.org e-hentai.org.cdn.cloudflare.net
 
 
 # CloudFront
