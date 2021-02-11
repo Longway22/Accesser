@@ -125,3 +125,5 @@ support.stackpath.com 151.139.128.13
 .wikisource.org 91.198.174.192
 .wikidata.org 91.198.174.192
 phabricator.wikimedia.org 91.198.174.192
+upload.wikimedia.org 198.35.26.112
+maps.wikimedia.org 198.35.26.112
