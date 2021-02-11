@@ -15,8 +15,8 @@ www.dropbox.com 162.125.69.1
 # Akamai
 
 steam*-a.akamaihd.net 23.57.66.9
-.appledaily.com 104.74.56.205 # static.omoplanet.com
-.appledaily.com 60.254.170.127 # appledaily.com
+.appledaily.com static.omoplanet.com
+.appledaily.com 60.254.170.127
 
 
 # Automattic 
