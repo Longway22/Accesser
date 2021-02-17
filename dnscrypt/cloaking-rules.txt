@@ -71,6 +71,7 @@ www.bloomberg.com fastly.net
 nytimes.com fastly.net
 www.nytimes.com fastly.net
 purr.nytimes.com fastly.net
+static*.nytimes.com fastly.net
 archive.nytimes.com fastly.net
 mwcm.nytimes.com fastly.net
 myaccount.nytimes.com fastly.net
