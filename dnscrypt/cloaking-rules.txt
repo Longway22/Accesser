@@ -68,6 +68,7 @@ www.bbc.com 151.101.128.81
 .disqus.com 151.101.40.134
 www.bloomberg.com fastly.net
 .bwbx.io fastly.net
+*.api.nytimes.com fastly.net
 nytimes.com fastly.net
 www.nytimes.com fastly.net
 purr.nytimes.com fastly.net
