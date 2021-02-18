@@ -1,5 +1,6 @@
 .pixiv.net 210.140.131.219
 www.bbc.co.uk 212.58.233.252
+bit.ly 67.199.248.10
 
 www.wenxuecity.com 35.190.31.60
 m.wenxuecity.com 35.190.31.60
