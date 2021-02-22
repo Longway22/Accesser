@@ -88,6 +88,7 @@ myaccount.nytimes.com fastly.net
 samizdat-graphql.nytimes.com fastly.net
 nyt.com fastly.net
 asia.nikkei.com fastly.net
+ft.com fastly.net
 
 
 # StackPath
