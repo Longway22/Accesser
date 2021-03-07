@@ -89,6 +89,7 @@ samizdat-graphql.nytimes.com fastly.net
 nyt.com fastly.net
 asia.nikkei.com fastly.net
 ft.com fastly.net
+www.dlsite.com fastly.net
 
 
 # StackPath
