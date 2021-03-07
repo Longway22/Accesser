@@ -4,6 +4,7 @@ accounts.pixiv.net fanbox.cc
 secure.pixiv.net fanbox.cc
 www.bbc.co.uk 212.58.233.252
 bit.ly 67.199.248.10
+telegra.ph comments.app
 
 www.wenxuecity.com 35.190.31.60
 m.wenxuecity.com 35.190.31.60
