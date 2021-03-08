@@ -5,6 +5,7 @@ secure.pixiv.net fanbox.cc
 www.bbc.co.uk 212.58.233.252
 bit.ly 67.199.248.10
 telegra.ph comments.app
+r18.com 202.6.246.238
 
 www.wenxuecity.com 35.190.31.60
 m.wenxuecity.com 35.190.31.60
@@ -40,7 +41,6 @@ venturebeat.com 192.0.66.3
 
 e-hentai.org e-hentai.org.cdn.cloudflare.net
 malaysiakini.com www.malaysiakini.com.cdn.cloudflare.net
-r18.com 202.6.246.238
 
 
 # CloudFront
