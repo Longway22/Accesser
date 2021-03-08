@@ -66,7 +66,7 @@ raw.githubusercontent.com fastly.net
 bandcamp.com 151.101.65.57
 reddit.com fastly.net
 redd.it fastly.net
-redditstatic.com fastly.net
+redditstatic.com fastly.com
 emoji.redditmedia.com fastly.net
 www.redditmedia.com fastly.net
 thumbs.redditmedia.com fastly.net
