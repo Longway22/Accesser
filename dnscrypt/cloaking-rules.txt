@@ -93,6 +93,7 @@ asia.nikkei.com fastly.net
 ft.com fastly.net
 www.dlsite.com fastly.net
 =assets.st-note.com g.ssl.fastly.net
+quora.com fastly.net
 
 
 # StackPath
