@@ -94,6 +94,7 @@ ft.com fastly.net
 www.dlsite.com fastly.net
 =assets.st-note.com g.ssl.fastly.net
 quora.com fastly.net
+quoracdn.net e.ssl.fastly.net
 
 
 # StackPath
