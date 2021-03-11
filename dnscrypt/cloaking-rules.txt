@@ -110,6 +110,17 @@ support.stackpath.com 151.139.128.13
 
 # Twitter
 
+mobile.twitter.com 104.244.42.13
+mobile.twitter.com 104.244.42.76
+mobile.twitter.com 104.244.42.78
+mobile.twitter.com 104.244.42.137
+mobile.twitter.com 104.244.42.140
+mobile.twitter.com 104.244.42.141
+mobile.twitter.com 104.244.42.142
+mobile.twitter.com 104.244.42.148
+mobile.twitter.com 104.244.42.201
+mobile.twitter.com 104.244.42.206
+mobile.twitter.com 104.244.42.212
 =twitter.com 104.244.42.13
 =twitter.com 104.244.42.76
 =twitter.com 104.244.42.78
