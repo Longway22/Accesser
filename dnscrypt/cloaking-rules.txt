@@ -2,7 +2,9 @@
 www.pixiv.net fanbox.cc
 accounts.pixiv.net fanbox.cc
 secure.pixiv.net fanbox.cc
-source.pixiv.net fanbox.cc
+source.pixiv.net 210.140.131.153
+source.pixiv.net 210.140.131.145
+source.pixiv.net 210.140.131.147
 www.bbc.co.uk 212.58.233.252
 bit.ly 67.199.248.10
 telegra.ph comments.app
