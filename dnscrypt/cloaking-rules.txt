@@ -251,6 +251,7 @@ theguardian.com guardian.map.fastly.net
 guim.co.uk g.ssl.fastly.net
 ophan.co.uk o.ssl.fastly.net
 api.nextgen.guardianapps.co.uk p.ssl.fastly.net
+media.dlsite.com j.ssl.fastly.net
 
 
 # StackPath
