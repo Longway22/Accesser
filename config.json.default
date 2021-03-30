@@ -76,7 +76,8 @@
     "g-client-proxy.pixiv.net": "d1ctzrip8l97jt.cloudfront.net",
     "images.gr-assets.com": "d2arxad8u2l0g7.cloudfront.net",
     "i.gr-assets.com": "d3201w7qr60x0r.cloudfront.net",
-    "s.gr-assets.com": "d1iqki3au1knww.cloudfront.net"
+    "s.gr-assets.com": "d1iqki3au1knww.cloudfront.net",
+    "www.latimes.com": "dnere6g15e5vs.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
