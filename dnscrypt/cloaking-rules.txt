@@ -235,15 +235,24 @@ media.dlsite.com j.ssl.fastly.net
 
 # Google
 
-google.com 142.250.188.224
-google.com 142.250.188.227
-google.com 142.250.188.232
 google.com 142.250.138.90
-google.com 142.250.65.89
 google.com 142.250.4.90
-google.com 142.250.65.95
 google.com 142.250.98.90
-google.com 142.250.188.91
+google.com 142.250.13.90
+google.com 172.253.62.90
+google.com 142.250.27.90
+google.com 172.217.192.90
+google.com 142.250.0.90
+
+google.com.hk 142.250.138.90
+google.com.hk 142.250.4.90
+google.com.hk 142.250.98.90
+google.com.hk 142.250.13.90
+google.com.hk 172.253.62.90
+google.com.hk 142.250.27.90
+google.com.hk 172.217.192.90
+google.com.hk 142.250.0.90
+
 
 
 # StackPath
