@@ -233,6 +233,19 @@ api.nextgen.guardianapps.co.uk p.ssl.fastly.net
 media.dlsite.com j.ssl.fastly.net
 
 
+# Google
+
+google.com 142.250.188.224
+google.com 142.250.188.227
+google.com 142.250.188.232
+google.com 142.250.138.90
+google.com 142.250.65.89
+google.com 142.250.4.90
+google.com 142.250.65.95
+google.com 142.250.98.90
+google.com 142.250.188.91
+
+
 # StackPath
 
 theepochtimes.com 151.139.128.13
