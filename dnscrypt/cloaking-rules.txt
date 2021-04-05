@@ -254,7 +254,6 @@ google.com.hk 172.217.192.90
 google.com.hk 142.250.0.90
 
 
-
 # StackPath
 
 theepochtimes.com 151.139.128.13
@@ -264,6 +263,18 @@ stackpath.bootstrapcdn.com 151.139.128.13
 maxcdn.bootstrapcdn.com 151.139.128.13
 www.stackpath.com 151.139.128.13
 support.stackpath.com 151.139.128.13
+
+
+# Telegram
+
+venus.web.telegram.org 149.154.162.84
+venus.web.telegram.org 149.154.162.79
+venus.web.telegram.org 95.161.64.100
+venus.web.telegram.org 149.154.162.68
+venus.web.telegram.org 149.154.162.75
+venus.web.telegram.org 149.154.162.66
+venus.web.telegram.org 149.154.162.81
+venus.web.telegram.org 149.154.162.76
 
 
 # Twitter
