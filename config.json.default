@@ -80,7 +80,10 @@
     "images.gr-assets.com": "d2arxad8u2l0g7.cloudfront.net",
     "i.gr-assets.com": "d3201w7qr60x0r.cloudfront.net",
     "s.gr-assets.com": "d1iqki3au1knww.cloudfront.net",
-    "www.latimes.com": "dnere6g15e5vs.cloudfront.net"
+    "www.latimes.com": "dnere6g15e5vs.cloudfront.net",
+    "www.storm.mg": "d11xfkicikqxp2.cloudfront.net",
+    "image.cache.storm.mg": "d1jx7wozg1yo4.cloudfront.net",
+    "resources.storm.mg": "d1nwupwi7uu4uc.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
