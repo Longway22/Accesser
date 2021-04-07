@@ -52,6 +52,7 @@ wikimediafoundation.org 192.0.66.1
 minnpost.com 192.0.66.1
 indiewire.com 192.0.66.3
 venturebeat.com 192.0.66.3
+pewresearch.org 192.0.66.4
 
 
 # Cloudflare
