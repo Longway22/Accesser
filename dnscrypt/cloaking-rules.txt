@@ -232,6 +232,9 @@ guim.co.uk g.ssl.fastly.net
 ophan.co.uk o.ssl.fastly.net
 api.nextgen.guardianapps.co.uk p.ssl.fastly.net
 media.dlsite.com j.ssl.fastly.net
+terminus2049.xyz 185.199.109.153
+terminus2049.xyz 185.199.110.153
+terminus2049.xyz 185.199.111.153
 
 
 # Google
