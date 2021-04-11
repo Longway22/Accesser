@@ -363,5 +363,6 @@ login.wikimedia.org 91.198.174.192
 meta.wikimedia.org 91.198.174.192
 phabricator.wikimedia.org 91.198.174.192
 commons.wikimedia.org 91.198.174.192
+commons.m.wikimedia.org 91.198.174.192
 upload.wikimedia.org 91.198.174.208
 maps.wikimedia.org 91.198.174.208
