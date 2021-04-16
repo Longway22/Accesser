@@ -190,11 +190,11 @@ xx.fbcdn.net 157.240.10.169
 
 # Fastly
 
-avatar*.githubusercontent.com a.ssl.fastly.net
-user-images.githubusercontent.com a.ssl.fastly.net
-camo.githubusercontent.com a.ssl.fastly.net
-gist.githubusercontent.com a.ssl.fastly.net
-raw.githubusercontent.com a.ssl.fastly.net
+#avatar*.githubusercontent.com a.ssl.fastly.net
+user-images.githubusercontent.com u.ssl.fastly.net
+camo.githubusercontent.com c.ssl.fastly.net
+gist.githubusercontent.com g.ssl.fastly.net
+raw.githubusercontent.com r.ssl.fastly.net
 bandcamp.com 151.101.65.57
 reddit.com e.ssl.fastly.net
 redd.it b.ssl.fastly.net
