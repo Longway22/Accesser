@@ -313,7 +313,7 @@ mobile.twitter.com 104.244.42.206
 support.twitter.com 104.244.42.13
 support.twitter.com 104.244.42.78
 support.twitter.com 104.244.42.141
-suooprt.twitter.com 104.244.42.142
+support.twitter.com 104.244.42.142
 support.twitter.com 104.244.42.206
 analytics.twitter.com 104.244.42.13
 analytics.twitter.com 104.244.42.78
