@@ -51,6 +51,8 @@
     "www.google.com": "dl.google.com",
     "www.google.com.hk": "dl.google.com",
     "mail.google.com": "dl.google.com",
+    "www.youtube.com": "dl.google.com",
+    "m.youtube.com": "dl.google.com",
     "www.ftchinese.com": "dsiij4vzr462k.cloudfront.net",
     "www.wsj.com": "dlp0y1mxy0v3u.cloudfront.net",
     "jp.wsj.com": "d1wyi1ztpvl1hq.cloudfront.net",
