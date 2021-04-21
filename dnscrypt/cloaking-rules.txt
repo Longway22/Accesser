@@ -257,6 +257,15 @@ google.com.hk 142.250.27.90
 google.com.hk 172.217.192.90
 google.com.hk 142.250.0.90
 
+gstatic.com 142.250.138.90
+gstatic.com 142.250.4.90
+gstatic.com 142.250.98.90
+gstatic.com 142.250.13.90
+gstatic.com 172.253.62.90
+gstatic.com 142.250.27.90
+gstatic.com 172.217.192.90
+gstatic.com 142.250.0.90
+
 youtube.com 142.250.138.90
 youtube.com 142.250.4.90
 youtube.com 142.250.98.90
