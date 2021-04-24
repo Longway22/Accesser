@@ -387,6 +387,7 @@ wikibooks.org 91.198.174.192
 wikiyoyage.org 91.198.174.192
 wikisource.org 91.198.174.192
 wikidata.org 91.198.174.192
+=wikimedia.org 91.198.174.192
 cxserver.wikimedia.org 91.198.174.192
 login.wikimedia.org 91.198.174.192
 meta.wikimedia.org 91.198.174.192
