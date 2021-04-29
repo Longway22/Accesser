@@ -96,7 +96,8 @@
     "www.latimes.com": "dnere6g15e5vs.cloudfront.net",
     "www.storm.mg": "d11xfkicikqxp2.cloudfront.net",
     "image.cache.storm.mg": "d1jx7wozg1yo4.cloudfront.net",
-    "resources.storm.mg": "d1nwupwi7uu4uc.cloudfront.net"
+    "resources.storm.mg": "d1nwupwi7uu4uc.cloudfront.net",
+    "login.abc.net.au": "dx18l4mcxxks9.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
