@@ -25,12 +25,9 @@ Move to <https://rentry.co/Accesser_Usage>
 
 Accesser tries TLS handshake without sending SNI
 
-You can add rules in [config.json](config.json.default)'s `alert_hostname`, ordering Accesser use specified SNI for specified site, Accesser will check the certificates is correct for that SNI
+You can add rules in [config.json](config.json.default)'s `alert_hostname`, ordering Accesser use specified SNI for specified site, Accesser will check the certificates is correct for that SNI, print a WARNING if not match, but wont abort connection.
 
-**But for an incorrect certificate Accesser only print a WARNING and won't abort the connection**
-
-
-**A MITM attack is possible**
+Accesser would abort connection for expired or self-signed certificates.
 
 ## Notes for CDNs
 
