@@ -241,7 +241,7 @@ terminus2049.xyz 185.199.111.153
 
 github.com 52.78.231.108
 #github.com 13.229.188.59
-github.com 52.74.223.119
+#github.com 52.74.223.119
 github.com 140.82.113.3
 github.com 140.82.113.4
 *.githubusercontent.com 140.82.113.13
