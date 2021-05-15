@@ -35,7 +35,6 @@ archive.li 217.79.184.91
 #archive.is 5.188.88.69
 archive.is 217.79.184.91
 
-
 # Akamai
 
 steam*-a.akamaihd.net 23.57.66.9
@@ -236,6 +235,22 @@ media.dlsite.com j.ssl.fastly.net
 terminus2049.xyz 185.199.109.153
 terminus2049.xyz 185.199.110.153
 terminus2049.xyz 185.199.111.153
+
+
+# GitHub
+
+github.com 52.78.231.108
+#github.com 13.229.188.59
+github.com 52.74.223.119
+github.com 140.82.113.3
+github.com 140.82.113.4
+*.githubusercontent.com 140.82.113.13
+*.githubusercontent.com 140.82.113.14
+*.gist.githubusercontent.com 140.82.113.20
+*.gist.githubusercontent.com 140.82.113.21
+*.gist.githubusercontent.com 140.82.113.22
+*.registry.github.com 140.82.113.33
+*.registry.github.com 140.82.113.34
 
 
 # Google
