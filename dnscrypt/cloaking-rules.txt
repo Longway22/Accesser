@@ -402,6 +402,7 @@ t.co 104.244.42.206
 
 # WIKIMEDIA
 
+w.wiki 91.198.174.192
 mediawiki.org 91.198.174.192
 wikipedia.org 91.198.174.192
 wikiquote.org 91.198.174.192
@@ -412,14 +413,7 @@ wikibooks.org 91.198.174.192
 wikiyoyage.org 91.198.174.192
 wikisource.org 91.198.174.192
 wikidata.org 91.198.174.192
-=wikimedia.org 91.198.174.192
-cxserver.wikimedia.org 91.198.174.192
-login.wikimedia.org 91.198.174.192
-meta.wikimedia.org 91.198.174.192
-meta.m.wikimedia.org 91.198.174.192
-phabricator.wikimedia.org 91.198.174.192
-commons.wikimedia.org 91.198.174.192
-commons.m.wikimedia.org 91.198.174.192
+wikimedia.org 91.198.174.192
 upload.wikimedia.org 91.198.174.208
 upload.wikimedia.org 208.80.153.240
 maps.wikimedia.org 91.198.174.208
