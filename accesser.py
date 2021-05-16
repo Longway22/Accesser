@@ -207,10 +207,7 @@ class ProxyHandler(StreamRequestHandler):
         if self.host in setting.config['alert_hostname']:
             server_hostname = setting.config['alert_hostname'][self.host]
         else:
-            if "googlevideo.com" not in self.host:
-                server_hostname = None
-            else:
-                server_hostname = "dl.google.com"
+            server_hostname = None
         try:
             self.remote_sock = socket.create_connection((self.remote_ip, 443))
         except TimeoutError:

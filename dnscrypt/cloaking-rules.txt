@@ -310,18 +310,6 @@ youtu.be 142.250.27.90
 youtu.be 172.217.192.90
 youtu.be 142.250.0.90
 
-googlevideo.com 78.129.226.64
-googlevideo.com 43.255.113.231
-googlevideo.com 43.255.113.229
-googlevideo.com 178.255.46.176
-googlevideo.com 104.250.98.13
-googlevideo.com 67.222.65.2
-googlevideo.com 69.162.113.194
-googlevideo.com 204.12.225.226
-googlevideo.com 87.117.205.40
-googlevideo.com 69.162.113.198
-googlevideo.com 69.28.83.244
-googlevideo.com 83.170.84.75
 
 # StackPath
 
