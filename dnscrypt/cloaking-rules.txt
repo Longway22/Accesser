@@ -310,6 +310,17 @@ youtu.be 142.250.27.90
 youtu.be 172.217.192.90
 youtu.be 142.250.0.90
 
+blogger.com 142.250.138.90
+blogger.com 172.253.114.90
+blogger.com 142.250.113.90
+blogger.com 172.217.203.90
+blogger.com 142.250.4.90
+blogger.com 142.250.98.90
+blogger.com 172.253.62.90
+blogger.com 142.250.27.90
+blogger.com 172.217.192.90
+blogger.com 142.250.0.90
+
 
 # StackPath
 
