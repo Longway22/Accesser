@@ -1,7 +1,7 @@
 {
   "log": {
     "logfile": "Accesser.log",
-    "loglevel": "INFO"
+    "loglevel": "ERROR"
   },
   "server": {
     "address": "127.0.0.1",
