@@ -196,7 +196,11 @@ camo.githubusercontent.com c.ssl.fastly.net
 gist.githubusercontent.com g.ssl.fastly.net
 raw.githubusercontent.com r.ssl.fastly.net
 bandcamp.com 151.101.65.57
+reddit.com r.ssl.fastly.net
 reddit.com e.ssl.fastly.net
+reddit.com d.ssl.fastly.net
+reddit.com i.ssl.fastly.net
+reddit.com t.ssl.fastly.net
 redd.it b.ssl.fastly.net
 redditstatic.com c.ssl.fastly.net
 emoji.redditmedia.com d.ssl.fastly.net
