@@ -22,18 +22,11 @@ adserver.wenxuecity.com 0.0.0.0
 
 www.dropbox.com 162.125.69.1
 
-#archive.today 5.188.88.69
 archive.today 217.79.184.91
-#archive.vn 5.188.88.69
 archive.vn 217.79.184.91
-#archive.ph 5.188.88.69
 archive.ph 217.79.184.91
-#archive.fo 5.188.88.69
 archive.fo 217.79.184.91
-#archive.li 5.188.88.69
 archive.li 217.79.184.91
-#archive.is 5.188.88.69
-archive.is 217.79.184.91
 
 # Akamai
 
