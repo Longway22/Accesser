@@ -180,7 +180,7 @@ xx.fbcdn.net 157.240.10.169
 
 # Fastly
 
-#avatar*.githubusercontent.com a.ssl.fastly.net
+#avatar*.githubusercontent.com v.ssl.fastly.net
 raw.githubusercontent.com r.ssl.fastly.net
 user-images.githubusercontent.com u.ssl.fastly.net
 camo.githubusercontent.com c.ssl.fastly.net
@@ -205,18 +205,18 @@ www.bbc.com 151.101.128.81
 s.imgur.com fastly.com
 i.imgur.com fastly.com
 imgur.com fastly.com
-www.bloomberg.com a.ssl.fastly.net
-bwbx.io a.ssl.fastly.net
-api.nytimes.com a.ssl.fastly.net
-nytimes.com a.ssl.fastly.net
-www.nytimes.com a.ssl.fastly.net
-static*.nytimes.com a.ssl.fastly.net
-archive.nytimes.com a.ssl.fastly.net
+www.bloomberg.com b.ssl.fastly.net
+bwbx.io b.ssl.fastly.net
+api.nytimes.com p.ssl.fastly.net
+nytimes.com n.ssl.fastly.net
+www.nytimes.com w.ssl.fastly.net
+static*.nytimes.com s.ssl.fastly.net
+archive.nytimes.com r.ssl.fastly.net
 mwcm.nytimes.com b.ssl.fastly.net
 myaccount.nytimes.com b.ssl.fastly.net
 samizdat-graphql.nytimes.com b.ssl.fastly.net
 nyt.com n.ssl.fastly.net
-asia.nikkei.com a.ssl.fastly.net
+asia.nikkei.com i.ssl.fastly.net
 ft.com f.ssl.fastly.net
 www.dlsite.com d.ssl.fastly.net
 =assets.st-note.com g.ssl.fastly.net
