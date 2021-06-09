@@ -395,6 +395,18 @@ t.co 104.244.42.206
 
 # WIKIMEDIA
 
+w.wiki 208.80.153.224
+mediawiki.org 208.80.153.224
+wikipedia.org 208.80.153.224
+wikiquote.org 208.80.153.224
+wikinews.org 208.80.153.224
+wikiversity.org 208.80.153.224
+wiktionary.org 208.80.153.224
+wikibooks.org 208.80.153.224
+wikiyoyage.org 208.80.153.224
+wikisource.org 208.80.153.224
+wikidata.org 208.80.153.224
+wikimedia.org 208.80.153.224
 w.wiki 91.198.174.192
 mediawiki.org 91.198.174.192
 wikipedia.org 91.198.174.192
