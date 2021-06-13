@@ -176,8 +176,9 @@ xx.fbcdn.net 157.240.10.169
 
 # Fastly
 
-#avatar*.githubusercontent.com v.ssl.fastly.net
+avatar*.githubusercontent.com v.ssl.fastly.net
 raw.githubusercontent.com r.ssl.fastly.net
+cloud.githubusercontent.com c.ssl.fastly.net
 user-images.githubusercontent.com u.ssl.fastly.net
 camo.githubusercontent.com c.ssl.fastly.net
 gist.githubusercontent.com g.ssl.fastly.net
