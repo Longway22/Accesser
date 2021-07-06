@@ -213,7 +213,7 @@ myaccount.nytimes.com b.ssl.fastly.net
 samizdat-graphql.nytimes.com b.ssl.fastly.net
 nyt.com n.ssl.fastly.net
 asia.nikkei.com i.ssl.fastly.net
-ft.com f.ssl.fastly.net
+#ft.com f.ssl.fastly.net
 www.dlsite.com d.ssl.fastly.net
 =assets.st-note.com g.ssl.fastly.net
 quora.com q.ssl.fastly.net
