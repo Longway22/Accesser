@@ -21,6 +21,7 @@ adserver.wenxuecity.com 0.0.0.0
 
 www.dropbox.com 162.125.69.1
 
+pornhub.com 66.254.114.40
 
 # Akamai
 
