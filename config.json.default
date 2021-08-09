@@ -105,7 +105,8 @@
     "image.cache.storm.mg": "d1jx7wozg1yo4.cloudfront.net",
     "resources.storm.mg": "d1nwupwi7uu4uc.cloudfront.net",
     "login.abc.net.au": "dx18l4mcxxks9.cloudfront.net",
-    "www.businessweek.com": "d37cjkitcphfwe.cloudfront.net"
+    "www.businessweek.com": "d37cjkitcphfwe.cloudfront.net",
+    "video-api.washingtonpost.com": "df0davzd72429.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
