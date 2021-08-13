@@ -24,8 +24,7 @@
     "tumblr.com/": "www.tumblr.com/",
     "instagram.com/": "www.instagram.com/",
     "google.com/": "www.google.com/",
-    "www.ftchinese.com/": "www.ftchinese.com/",
-    "i.pximg.net/": "i-cf.pximg.net/"
+    "www.ftchinese.com/": "www.ftchinese.com/"
   },
   "alert_hostname": {
     "i-cf.pximg.net": "i-cf.pximg.net",
