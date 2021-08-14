@@ -244,7 +244,6 @@ github.com 140.82.113.4
 # Google
 
 blogger.com 142.250.0.90
-blogger.com 142.250.13.90
 blogger.com 142.250.27.90
 blogger.com 142.250.4.90
 blogger.com 142.250.98.90
@@ -253,7 +252,6 @@ blogger.com 172.253.113.90
 blogger.com 172.253.114.90
 blogger.com 172.253.62.90
 google.com 142.250.0.90
-google.com 142.250.13.90
 google.com 142.250.27.90
 google.com 142.250.4.90
 google.com 142.250.98.90
@@ -262,7 +260,6 @@ google.com 172.253.113.90
 google.com 172.253.114.90
 google.com 172.253.62.90
 google.com.hk 142.250.0.90
-google.com.hk 142.250.13.90
 google.com.hk 142.250.27.90
 google.com.hk 142.250.4.90
 google.com.hk 142.250.98.90
@@ -271,7 +268,6 @@ google.com.hk 172.253.113.90
 google.com.hk 172.253.114.90
 google.com.hk 172.253.62.90
 gstatic.com 142.250.0.90
-gstatic.com 142.250.13.90
 gstatic.com 142.250.27.90
 gstatic.com 142.250.4.90
 gstatic.com 142.250.98.90
@@ -280,7 +276,6 @@ gstatic.com 172.253.113.90
 gstatic.com 172.253.114.90
 gstatic.com 172.253.62.90
 youtu.be 142.250.0.90
-youtu.be 142.250.13.90
 youtu.be 142.250.27.90
 youtu.be 142.250.4.90
 youtu.be 142.250.98.90
@@ -289,7 +284,6 @@ youtu.be 172.253.113.90
 youtu.be 172.253.114.90
 youtu.be 172.253.62.90
 youtube.com 142.250.0.90
-youtube.com 142.250.13.90
 youtube.com 142.250.27.90
 youtube.com 142.250.4.90
 youtube.com 142.250.98.90
