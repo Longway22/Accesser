@@ -105,7 +105,13 @@
     "resources.storm.mg": "d1nwupwi7uu4uc.cloudfront.net",
     "login.abc.net.au": "dx18l4mcxxks9.cloudfront.net",
     "www.businessweek.com": "d37cjkitcphfwe.cloudfront.net",
-    "video-api.washingtonpost.com": "df0davzd72429.cloudfront.net"
+    "video-api.washingtonpost.com": "df0davzd72429.cloudfront.net",
+    "expired.badssl.com": "expired.badssl.com",
+    "wrong.host.badssl.com": "wrong.host.badssl.com",
+    "self-signed.badssl.com": "self-signed.badssl.com",
+    "untrusted-root.badssl.com": "untrusted-root.badssl.com",
+    "revoked.badssl.com": "revoked.badssl.com",
+    "pinning-test.badssl.com": "pinning-test.badssl.com"
   },
   "content_fix": {
     "accounts.pixiv.net": {
