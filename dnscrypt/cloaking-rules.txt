@@ -26,8 +26,6 @@ pornhub.com 66.254.114.40
 # Akamai
 
 steam*-a.akamaihd.net 23.57.66.9
-appledaily.com static.omoplanet.com
-appledaily.com 60.254.170.127
 emp.bbc.com 104.76.135.135
 
 
