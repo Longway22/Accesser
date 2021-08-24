@@ -288,9 +288,9 @@ if __name__ == '__main__':
         DNSresolver.port = int(setting.config['DNS']['port'])
     else:
         # Launch dnscrypt-proxy in the `./dnscrypt`.
-        # And use `127.0.0.1:53000` in default.
+        # And use `127.0.0.1:53001` in default.
         DNSresolver.nameservers = ['127.0.0.1']
-        DNSresolver.port = 53000
+        DNSresolver.port = 53001
         dnscrypt_dir = os.path.join(basepath, 'dnscrypt')
         if hasattr(subprocess, 'STARTUPINFO'):
             si = subprocess.STARTUPINFO()
