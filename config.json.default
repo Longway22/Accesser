@@ -111,7 +111,8 @@
     "self-signed.badssl.com": "self-signed.badssl.com",
     "untrusted-root.badssl.com": "untrusted-root.badssl.com",
     "revoked.badssl.com": "revoked.badssl.com",
-    "pinning-test.badssl.com": "pinning-test.badssl.com"
+    "pinning-test.badssl.com": "pinning-test.badssl.com",
+    "cn.ft.com": "d3t4aist82b9mr.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
