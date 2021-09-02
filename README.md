@@ -4,7 +4,7 @@
 
 A tool for bypassing SNI-based HTTPS Filtering using [Domain Fronting](https://en.wikipedia.org/wiki/Domain_fronting)
 
-[Supported sites](https://notyet.yogas.ml/ac.yaml)
+[Supported sites](https://ygsk10.gitlab.io/notyet/ac.yaml)
 
 ## Usage
 
