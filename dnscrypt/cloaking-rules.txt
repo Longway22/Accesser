@@ -291,6 +291,25 @@ youtube.com 172.253.114.90
 youtube.com 172.253.62.90
 
 
+# Internet Archive
+
+=archive.org 207.241.233.234
+=archive.org 207.241.225.203
+=archive.org 207.241.224.51
+=archive.org 207.241.225.120
+=archive.org 207.241.229.200
+=archive.org 207.241.233.226
+=archive.org 207.241.230.28
+=archive.org 207.241.230.40
+
+web.archive.org 207.241.226.190
+web.archive.org 207.241.237.3
+web.archive.org 207.241.234.17
+web.archive.org 207.241.234.144
+web.archive.org 207.241.234.11
+web.archive.org 207.241.232.208
+
+
 # StackPath
 
 theepochtimes.com 151.139.128.13
