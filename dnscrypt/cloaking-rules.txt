@@ -293,7 +293,6 @@ youtube.com 172.253.62.90
 
 # Internet Archive
 
-=archive.org 207.241.233.234
 =archive.org 207.241.225.203
 =archive.org 207.241.224.51
 =archive.org 207.241.225.120
