@@ -304,12 +304,10 @@ youtube.com 172.253.62.90
 =archive.org 207.241.224.27
 =archive.org 207.241.231.70
 
-web.archive.org 207.241.226.190
 web.archive.org 207.241.237.3
 web.archive.org 207.241.234.17
 web.archive.org 207.241.234.144
 web.archive.org 207.241.234.11
-web.archive.org 207.241.232.208
 
 
 # StackPath
