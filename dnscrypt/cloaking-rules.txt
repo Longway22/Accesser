@@ -352,7 +352,6 @@ t.lv.twimg.com 104.244.42.140
 t.lv.twimg.com 104.244.42.76
 
 ton.twitter.com 104.244.42.148
-ton.twitter.com 104.244.42.212
 
 caps.twitter.com 104.244.42.13
 caps.twitter.com 104.244.42.78
