@@ -401,6 +401,8 @@ t.co 104.244.42.141
 t.co 104.244.42.142
 t.co 104.244.42.206
 
+platform.twitter.com platform.twitter.map.fastly.net
+
 
 # WIKIMEDIA
 
