@@ -215,7 +215,11 @@ class ProxyHandler(StreamRequestHandler):
             return
         remote_context = ssl.create_default_context()
         remote_context.check_hostname = False
-        self.remote_sock = remote_context.wrap_socket(self.remote_sock, server_hostname=server_hostname)
+        try:
+            self.remote_sock = remote_context.wrap_socket(self.remote_sock, server_hostname=server_hostname)
+        except TimeoutError:
+            logger.warning('Try TLS handshake '+self.host+' with '+self.remote_ip+' timeout.')
+            return
         cert = self.remote_sock.getpeercert()
         if setting.config['check_hostname']:
             try:
