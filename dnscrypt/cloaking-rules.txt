@@ -413,7 +413,7 @@ wikinews.org 208.80.153.224
 wikiversity.org 208.80.153.224
 wiktionary.org 208.80.153.224
 wikibooks.org 208.80.153.224
-wikiyoyage.org 208.80.153.224
+wikivoyage.org 208.80.153.224
 wikisource.org 208.80.153.224
 wikidata.org 208.80.153.224
 wikimedia.org 208.80.153.224
@@ -425,7 +425,7 @@ wikinews.org 91.198.174.192
 wikiversity.org 91.198.174.192
 wiktionary.org 91.198.174.192
 wikibooks.org 91.198.174.192
-wikiyoyage.org 91.198.174.192
+wikivoyage.org 91.198.174.192
 wikisource.org 91.198.174.192
 wikidata.org 91.198.174.192
 wikimedia.org 91.198.174.192
