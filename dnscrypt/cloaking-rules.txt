@@ -10,7 +10,6 @@ bit.ly 67.199.248.10
 telegra.ph comments.app
 r18.com 202.6.246.238
 
-www.wenxuecity.com 35.190.31.60
 m.wenxuecity.com 35.190.31.60
 bbs.wenxuecity.com 35.190.31.60
 passport.wenxuecity.com 35.190.31.60
