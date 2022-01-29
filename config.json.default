@@ -112,7 +112,8 @@
     "untrusted-root.badssl.com": "untrusted-root.badssl.com",
     "revoked.badssl.com": "revoked.badssl.com",
     "pinning-test.badssl.com": "pinning-test.badssl.com",
-    "cn.ft.com": "d3t4aist82b9mr.cloudfront.net"
+    "cn.ft.com": "d3t4aist82b9mr.cloudfront.net",
+    "cn.nikkei.com": "d9shhjt4p7ouc.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
