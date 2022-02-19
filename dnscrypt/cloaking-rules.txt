@@ -22,6 +22,8 @@ www.dropbox.com 162.125.69.1
 
 pornhub.com 66.254.114.40
 
+archiveofourown.org 208.85.241.152
+
 # Akamai
 
 steam*-a.akamaihd.net 23.57.66.9
