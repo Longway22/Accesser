@@ -1,7 +1,7 @@
 {
   "log": {
     "logfile": "Accesser.log",
-    "loglevel": "ERROR"
+    "loglevel": "INFO"
   },
   "server": {
     "address": "127.0.0.1",
@@ -15,9 +15,9 @@
   },
   "webui": true,
   "webuiport": 7654,
-  "setproxy": false,
+  "setproxy": true,
   "importca": true,
-  "ipv6": true,
+  "ipv6": false,
   "http_redirect": {
     "pixiv.net/": "www.pixiv.net/",
     "www.google.com/recaptcha/": "www.recaptcha.net/recaptcha/",
