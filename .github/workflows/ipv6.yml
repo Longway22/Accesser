@@ -1,4 +1,4 @@
-name: Auto build for windows
+name: Auto build for windows (IPv6)
 
 on: push
 
