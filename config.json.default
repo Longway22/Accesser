@@ -15,7 +15,7 @@
   },
   "webui": true,
   "webuiport": 7654,
-  "setproxy": false,
+  "setproxy": true,
   "importca": true,
   "ipv6": true,
   "http_redirect": {
