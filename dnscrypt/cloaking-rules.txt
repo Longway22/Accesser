@@ -437,6 +437,20 @@ wikisource.org 91.198.174.192
 wikidata.org 91.198.174.192
 wikimedia.org 91.198.174.192
 
+# 185.15.58.224
+w.wiki 185.15.58.224
+mediawiki.org 185.15.58.224
+wikipedia.org 185.15.58.224
+wikiquote.org 185.15.58.224
+wikinews.org 185.15.58.224
+wikiversity.org 185.15.58.224
+wiktionary.org 185.15.58.224
+wikibooks.org 185.15.58.224
+wikivoyage.org 185.15.58.224
+wikisource.org 185.15.58.224
+wikidata.org 185.15.58.224
+wikimedia.org 185.15.58.224
+
 # 2620:0:863:ed1a::1
 w.wiki 2620:0:863:ed1a::1
 mediawiki.org 2620:0:863:ed1a::1
@@ -507,22 +521,41 @@ wikisource.org 2001:df2:e500:ed1a::1
 wikidata.org 2001:df2:e500:ed1a::1
 wikimedia.org 2001:df2:e500:ed1a::1
 
+# a02:ec80:600:ed1a::1
+w.wiki a02:ec80:600:ed1a::1
+mediawiki.org a02:ec80:600:ed1a::1
+wikipedia.org a02:ec80:600:ed1a::1
+wikiquote.org a02:ec80:600:ed1a::1
+wikinews.org a02:ec80:600:ed1a::1
+wikiversity.org a02:ec80:600:ed1a::1
+wiktionary.org a02:ec80:600:ed1a::1
+wikibooks.org a02:ec80:600:ed1a::1
+wikivoyage.org a02:ec80:600:ed1a::1
+wikisource.org a02:ec80:600:ed1a::1
+wikidata.org a02:ec80:600:ed1a::1
+wikimedia.org a02:ec80:600:ed1a::1
 
 upload.wikimedia.org 91.198.174.208
 upload.wikimedia.org 208.80.153.240
+upload.wikimedia.org 185.15.58.240
+upload.wikimedia.org 208.80.154.240
 upload.wikimedia.org 2620:0:863:ed1a::2:b
 upload.wikimedia.org 2620:0:860:ed1a::2:b
 upload.wikimedia.org 2620:0:861:ed1a::2:b
 upload.wikimedia.org 2620:0:862:ed1a::2:b
 upload.wikimedia.org 2001:df2:e500:ed1a::2:b
+upload.wikimedia.org 2a02:ec80:600:ed1a::2:b
 
 maps.wikimedia.org 91.198.174.208
 maps.wikimedia.org 208.80.153.240
+maps.wikimedia.org 185.15.58.240
+maps.wikimedia.org 208.80.154.240
 maps.wikimedia.org 2620:0:863:ed1a::2:b
 maps.wikimedia.org 2620:0:860:ed1a::2:b
 maps.wikimedia.org 2620:0:861:ed1a::2:b
 maps.wikimedia.org 2620:0:862:ed1a::2:b
 maps.wikimedia.org 2001:df2:e500:ed1a::2:b
+maps.wikimedia.org 2a02:ec80:600:ed1a::2:b
 
 lists.wikimedia.org 208.80.154.21
 lists.wikimedia.org 2620:0:861:1:208:80:154:21
