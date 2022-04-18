@@ -521,19 +521,19 @@ wikisource.org 2001:df2:e500:ed1a::1
 wikidata.org 2001:df2:e500:ed1a::1
 wikimedia.org 2001:df2:e500:ed1a::1
 
-# a02:ec80:600:ed1a::1
-w.wiki a02:ec80:600:ed1a::1
-mediawiki.org a02:ec80:600:ed1a::1
-wikipedia.org a02:ec80:600:ed1a::1
-wikiquote.org a02:ec80:600:ed1a::1
-wikinews.org a02:ec80:600:ed1a::1
-wikiversity.org a02:ec80:600:ed1a::1
-wiktionary.org a02:ec80:600:ed1a::1
-wikibooks.org a02:ec80:600:ed1a::1
-wikivoyage.org a02:ec80:600:ed1a::1
-wikisource.org a02:ec80:600:ed1a::1
-wikidata.org a02:ec80:600:ed1a::1
-wikimedia.org a02:ec80:600:ed1a::1
+# 2a02:ec80:600:ed1a::1
+w.wiki 2a02:ec80:600:ed1a::1
+mediawiki.org 2a02:ec80:600:ed1a::1
+wikipedia.org 2a02:ec80:600:ed1a::1
+wikiquote.org 2a02:ec80:600:ed1a::1
+wikinews.org 2a02:ec80:600:ed1a::1
+wikiversity.org 2a02:ec80:600:ed1a::1
+wiktionary.org 2a02:ec80:600:ed1a::1
+wikibooks.org 2a02:ec80:600:ed1a::1
+wikivoyage.org 2a02:ec80:600:ed1a::1
+wikisource.org 2a02:ec80:600:ed1a::1
+wikidata.org 2a02:ec80:600:ed1a::1
+wikimedia.org 2a02:ec80:600:ed1a::1
 
 upload.wikimedia.org 91.198.174.208
 upload.wikimedia.org 208.80.153.240
