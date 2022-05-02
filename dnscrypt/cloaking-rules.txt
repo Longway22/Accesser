@@ -379,11 +379,13 @@ analytics.twitter.com 104.244.42.206
 =twitter.com 104.244.42.141
 =twitter.com 104.244.42.142
 =twitter.com 104.244.42.206
-api.twitter.com 104.244.42.13
-api.twitter.com 104.244.42.78
-api.twitter.com 104.244.42.141
-api.twitter.com 104.244.42.142
-api.twitter.com 104.244.42.206
+
+api.twitter.com 104.244.41.1
+api.twitter.com 104.244.41.2
+api.twitter.com 104.233.41.3
+api.twitter.com 104.244.45.2
+api.twitter.com 104.244.45.147
+
 help.twitter.com 104.244.42.13
 help.twitter.com 104.244.42.78
 help.twitter.com 104.244.42.141
