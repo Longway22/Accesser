@@ -40,6 +40,7 @@ var domains = {
   "gghpt.com": 1,
   "youtube.com": 1,
   "googleapis.com": 1,
+  "googlevideo.com": 1
 };
 
 var shexps = {
