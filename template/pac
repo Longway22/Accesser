@@ -36,7 +36,12 @@ var domains = {
   "nytimes.com": 1,
   "archiveofourown.org": 1,
   "twitter.com": 1,
-  "twimg.com": 1
+  "twimg.com": 1,
+  "gghpt.com": 1,
+  "youtube.com": 1,
+  "googleapis.com": 1,
+  "google.com": 1,
+  "google.com.hk":1
 };
 
 var shexps = {
