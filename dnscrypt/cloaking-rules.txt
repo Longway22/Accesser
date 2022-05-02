@@ -339,14 +339,19 @@ venus.web.telegram.org 149.154.162.76
 
 # Twitter
 
-
 pbs.twimg.com 104.244.42.201
 pbs.twimg.com 104.244.42.137
 pbs.twimg.com 104.244.45.9
 abs.twimg.com 104.244.42.201
 abs.twimg.com 104.244.42.137
 abs.twimg.com 104.244.45.9
-abs-0.twimg.com t.ssl.fastly.net
+abs-0.twimg.com 151.101.228.160
+abs-0.twimg.com 151.101.192.159
+abs-0.twimg.com 151.101.108.157
+abs-0.twimg.com 151.101.108.158
+abs-0.twimg.com 151.101.28.158
+abs-0.twimg.com 146.75.72.157
+abs-0.twimg.com 146.75.104.158
 video.twimg.com video.twitter.map.fastly.net
 t.lv.twimg.com 104.244.42.140
 t.lv.twimg.com 104.244.42.76
