@@ -408,6 +408,8 @@ t.co 104.244.45.5
 
 platform.twitter.com platform.twitter.map.fastly.net
 
+tweetdeck.twitter.com 104.244.45.4
+tweetdeck.twitter.com 104.244.45.149
 
 # WIKIMEDIA
 
