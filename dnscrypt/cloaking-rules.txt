@@ -327,6 +327,8 @@ support.stackpath.com 151.139.128.13
 
 # Telegram
 
+web.telegram.org 95.161.64.99
+
 venus.web.telegram.org 149.154.162.84
 venus.web.telegram.org 149.154.162.79
 venus.web.telegram.org 95.161.64.100
