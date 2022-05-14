@@ -406,6 +406,14 @@ platform.twitter.com platform.twitter.map.fastly.net
 tweetdeck.twitter.com 104.244.45.4
 tweetdeck.twitter.com 104.244.45.149
 
+upload.twitter.com 69.195.171.253
+upload.twitter.com 104.244.45.11
+
+# WIKIMEDIA
+
+# 208.80.153.224
+w.wiki 208.80.153.224
+
 # WIKIMEDIA
 
 # 208.80.153.224
