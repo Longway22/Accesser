@@ -361,11 +361,8 @@ caps.twitter.com 104.244.42.141
 caps.twitter.com 104.244.42.142
 caps.twitter.com 104.244.42.206
 
-mobile.twitter.com 104.244.42.13
-mobile.twitter.com 104.244.42.78
-mobile.twitter.com 104.244.42.141
-mobile.twitter.com 104.244.42.142
-mobile.twitter.com 104.244.42.206
+mobile.twitter.com 104.244.45.6
+
 support.twitter.com 104.244.42.13
 support.twitter.com 104.244.42.78
 support.twitter.com 104.244.42.141
