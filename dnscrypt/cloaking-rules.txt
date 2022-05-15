@@ -407,6 +407,8 @@ tweetdeck.twitter.com 104.244.45.149
 upload.twitter.com 69.195.171.253
 upload.twitter.com 104.244.45.11
 
+api.tweetdeck.com 104.244.45.4
+
 # WIKIMEDIA
 
 # 208.80.153.224
