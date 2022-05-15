@@ -373,11 +373,12 @@ analytics.twitter.com 104.244.42.78
 analytics.twitter.com 104.244.42.141
 analytics.twitter.com 104.244.42.142
 analytics.twitter.com 104.244.42.206
-=twitter.com 104.244.42.13
-=twitter.com 104.244.42.78
-=twitter.com 104.244.42.141
-=twitter.com 104.244.42.142
-=twitter.com 104.244.42.206
+
+=twitter.com 104.244.41.202
+=twitter.com 104.244.45.146
+=twitter.com 104.244.45.65
+=twitter.com 104.244.41.200
+=twitter.com 104.244.41.201
 
 api.twitter.com 104.244.41.1
 api.twitter.com 104.244.41.2
