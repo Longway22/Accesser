@@ -350,9 +350,14 @@ abs-0.twimg.com 151.101.28.158
 abs-0.twimg.com 146.75.72.157
 abs-0.twimg.com 146.75.104.158
 video.twimg.com video.twitter.map.fastly.net
-t.lv.twimg.com 104.244.42.140
-t.lv.twimg.com 104.244.42.76
 
+t.lv.twimg.com 104.244.42.12
+t.lv.twimg.com 104.244.42.76
+t.lv.twimg.com 104.244.42.140
+t.lv.twimg.com 104.244.42.204
+
+ton.twitter.com 104.244.42.20
+ton.twitter.com 104.244.42.84
 ton.twitter.com 104.244.42.148
 
 caps.twitter.com 104.244.42.13
@@ -408,13 +413,9 @@ upload.twitter.com 69.195.171.253
 upload.twitter.com 104.244.45.11
 
 api.tweetdeck.com 104.244.45.4
+api.tweetdeck.com 104.244.45.149
 
-# WIKIMEDIA
-
-# 208.80.153.224
-w.wiki 208.80.153.224
-
-# WIKIMEDIA
+# Wikimedia
 
 # 208.80.153.224
 w.wiki 208.80.153.224
