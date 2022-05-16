@@ -42,7 +42,7 @@ cache_neg_max_ttl = 600
 
 [sources]
   [sources.'public-resolvers']
-  urls = ['https://cdn.jsdelivr.net/gh/DNSCrypt/dnscrypt-resolvers/v3/public-resolvers.md',
+  urls = [
   'https://download.dnscrypt.info/resolvers-list/v3/public-resolvers.md',
   'https://cdn.statically.io/gh/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md',
   'https://ghcdn.rawgit.org/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md']
@@ -52,7 +52,7 @@ cache_neg_max_ttl = 600
   prefix=''
 
   [sources.'relays']
-    urls = ['https://cdn.jsdelivr.net/gh/DNSCrypt/dnscrypt-resolvers/v3/relays.md',
+    urls = [
     'https://download.dnscrypt.info/resolvers-list/v3/relays.md',
     'https://cdn.statically.io/gh/DNSCrypt/dnscrypt-resolvers/master/v3/public-resolvers.md',
     'https://ghcdn.rawgit.org/DNSCrypt/dnscrypt-resolvers/master/v3/relays.md']
@@ -62,7 +62,7 @@ cache_neg_max_ttl = 600
     prefix = ''
 
   [sources.'odoh-servers']
-    urls = ['https://cdn.jsdelivr.net/gh/DNSCrypt/dnscrypt-resolvers/v3/odoh-servers.md',
+    urls = [
     'https://download.dnscrypt.info/resolvers-list/v3/odoh-servers.md',
     'https://cdn.statically.io/gh/DNSCrypt/dnscrypt-resolvers/master/v3/odoh-servers.md',
     'https://ghcdn.rawgit.org/DNSCrypt/dnscrypt-resolvers/master/v3/odoh-servers.md']
@@ -72,7 +72,7 @@ cache_neg_max_ttl = 600
     prefix = ''
 
    [sources.'odoh-relays']
-    urls = ['https://cdn.jsdelivr.net/gh/DNSCrypt/dnscrypt-resolvers/v3/odoh-relays.md',
+    urls = [
     'https://download.dnscrypt.info/resolvers-list/v3/odoh-relays.md',
     'https://cdn.statically.io/gh/DNSCrypt/dnscrypt-resolvers/master/v3/odoh-relays.md',
     'https://ghcdn.rawgit.org/DNSCrypt/dnscrypt-resolvers/master/v3/odoh-relays.md']
