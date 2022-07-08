@@ -115,7 +115,8 @@
     "pinning-test.badssl.com": "pinning-test.badssl.com",
     "cn.ft.com": "d3t4aist82b9mr.cloudfront.net",
     "cn.nikkei.com": "d9shhjt4p7ouc.cloudfront.net",
-    "s3cdn.wainao.me": "d1ve8new2m0blc.cloudfront.net"
+    "s3cdn.wainao.me": "d1ve8new2m0blc.cloudfront.net",
+    "stories.wainao.me": "d3lrggk3io5w2q.cloudfront.net"
   },
   "content_fix": {
     "accounts.pixiv.net": {
