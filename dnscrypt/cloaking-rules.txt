@@ -168,7 +168,6 @@ facebook.com 157.240.24.11
 facebook.com 157.240.2.169
 facebook.com 157.240.10.169
 
-xx.fbcdn.net 157.240.11.8
 xx.fbcdn.net 179.60.192.169
 xx.fbcdn.net 157.240.24.11
 xx.fbcdn.net 157.240.2.169
